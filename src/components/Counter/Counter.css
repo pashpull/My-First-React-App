@@ -1,0 +1,32 @@
+.counter {
+	max-width: 840px;
+	padding: 15px;
+	border: #fff 2px solid;
+	margin: 0 auto 15px;
+}
+
+.counter__content {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.counter__num {
+	color: #fff;
+}
+
+.counter__controls {
+	display: flex;
+	gap: 15px;
+}
+
+.counter__btn {
+	font-size: 30px;
+	border: #fff 2px solid;
+	background-color: transparent;
+	border-radius: 3px;
+	color: #fff;
+	padding: 0 10px;
+	cursor: pointer;
+	width: 50px;
+}

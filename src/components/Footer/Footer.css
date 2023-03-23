@@ -1,0 +1,15 @@
+.footer {
+	padding: 15px;
+	border-top: #fff 2px solid;
+}
+
+.footer__content {
+	max-width: 1440px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.footer__title {
+	color: #fff;
+}
